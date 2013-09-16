@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="appName">Promenade au Thabor</string>
+    <string name="back">Retour</string>
+    <string name="moreInfo">+ d\'infos</string>
+    <string name="inFrontOfYou">En face de vous :</string>
+    <string name="nearYou">A proximité de vous :</string>
+    <string name="nextStep">Prochaine étape :</string>
+    <string name="searchPOINearby">Recherche des points d\'intérêt à proximité…</string>
+    <string name="checkYourLocation">Vérifiez que vous êtes au parc du Thabor à Rennes</string>
+	<string name="about">A propos</string>
+	<string name="aboutBoxMessage">Promenade au Thabor\nUne application de réalité augmentée réalisée par 40degree.\n\nPour plus d\'informations :\ncontact@40degree.com\n\nDonnées géographiques mises à disposition par Rennes Métropole dans le cadre du concours Open Data 2011, textes issus de l\'encyclopédie Wikipedia.</string>
+	<string name="exit">Quitter</string>
+	<string name="recalibrate">Merci de recalibrer la boussole</string>
+	<string name="gpsUnavailableAlert">L\'application nécessite la localisation précise par GPS.\n\nPour continuer, merci de l\'activer dans les paramètres en cliquant sur le bouton Activer ci-dessous.</string>
+	<string name="gpsActivate">Activer</string>
+	<string name="gpsUnavailable">GPS désactivé.</string>
+	<string name="gpsMissing">Pas de GPS.</string>
+	<string name="gpsMissingAlert">Il n\'y a pas de GPS sur cet appareil. L\'application va utiliser un moyen de location moins précis.</string>
+	<string name="close">Fermer</string>
+	<string name="cont">Continuer</string>
+	<string name="loading">Chargement…</string>
+	<string name="noInfo">Pas d\'informations disponible.</string>
+</resources>
